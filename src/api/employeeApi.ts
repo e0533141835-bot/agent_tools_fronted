@@ -1,7 +1,7 @@
 // src/api/employeeApi.ts
 import { auth } from '../config/firebase';
 
-const API_BASE_URL = 'http://localhost:3000/api/v1';
+const API_BASE_URL = 'http://practicom-api-500950417142.us-central1.run.app/api/v1';
 
 // פונקציית עזר קטנה להבאת הטוקן של פיירבייס
 const getAuthHeaders = async () => {

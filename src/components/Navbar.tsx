@@ -1,4 +1,4 @@
-import { Flex, Button, Spacer } from '@chakra-ui/react';
+import { Flex, Button } from '@chakra-ui/react';
 import { auth } from '../config/firebase';
 
 export default function Navbar() {
